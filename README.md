@@ -6,3 +6,5 @@
 </p>
 <p align="center">$\color{#554FCD}{\textsf{𝟶𝟿 ༝ 𝟶𝟺 ༝ 𝟸𝟻}}$
 </p>
+<p align="center">$\color{#554FCD}{\textsf{usually offtab or semiverbal}}$
+</p>
