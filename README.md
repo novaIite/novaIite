@@ -1,6 +1,7 @@
 <p align="center">$\color{#AFB7C0}{\textsf{Spawn's Favorite}}$
 </p>
-<p align="center"><img width="2048" height="737" alt="image" src="https://github.com/user-attachments/assets/425aea3b-9fb0-441e-823c-6038763d854a" />
+<p align="center"><img width="459" height="467" alt="image" src="https://github.com/user-attachments/assets/2b8afbb6-591f-4618-83ea-b0f05fb3d801" />
+
 </p>
 <p align="center">$\color{#AFB7C0}{\textsf{two time ᵒʳ times ༝ they them ༝ introject}}$
 </p>
