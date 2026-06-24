@@ -5,7 +5,3 @@
 </p>
 <p align="center">$\color{#AFB7C0}{\textsf{two time ᵒʳ times ༝ they them ༝ introject}}$
 </p>
-<p align="center">$\color{#AFB7C0}{\textsf{𝟶𝟿 ༝ 𝟶𝟺 ༝ 𝟸𝟻}}$
-</p>
-<p align="center">$\color{#AFB7C0}{\textsf{NOT a spawnist. spawnists dni.}}$
-</p>
